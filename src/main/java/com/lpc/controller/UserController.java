@@ -22,6 +22,7 @@ public class UserController {
         System.out.println("hot-fix test1");
         System.out.println("master test1");
         System.out.println("hot-fix test2");
+        System.out.println("master test3");
         return "MySpringBoot success is running...";
     }
 
