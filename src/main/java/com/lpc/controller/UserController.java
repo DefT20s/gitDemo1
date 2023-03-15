@@ -19,7 +19,7 @@ public class UserController {
 
     @PostMapping
     public String save(){
-        return "MySpringBoot success running...";
+        return "MySpringBoot success is running...";
     }
 
 
