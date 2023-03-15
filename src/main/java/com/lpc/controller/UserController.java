@@ -20,6 +20,7 @@ public class UserController {
     @PostMapping
     public String save(){
         System.out.println("hot-fix test1");
+        System.out.println("hot-fix test2");
         return "MySpringBoot success is running...";
     }
 
